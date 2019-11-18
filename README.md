@@ -1,5 +1,5 @@
-# React + Bulma + 
-Reac
+# React + Bulma + Parcel
+Quickstart your frontend development with React and Bulma, using Parcel as a builder 
 
 ### Development
 
